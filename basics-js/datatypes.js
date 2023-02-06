@@ -19,5 +19,5 @@ var myCar = {
   make: "Tesla",
   model: "Mustang",
   year: 1965,
-};
+}; // object
 console.log(typeof myCar);
